@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="Formulario">Formulario</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Password">Password</string>
+    <string name="RepPassword">RepPassword</string>
+    <string name="Correo">Correo</string>
+    <string name="Masculino">Masculino</string>
+    <string name="Femenino">Femenino</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Resultado">Resultado</string>
+    <string name="Fechadenacimiento">Fecha de nacimiento</string>
+    <string name="EscucharMúsica">Escuchar Música</string>
+    <string name="HacerDeporte">Hacer Deporte</string>
+    <string name="Cocinar">Cocinar</string>
+    <string name="SalirdePaseo">Salir de Paseo</string>
+    <string name="Bailar">Bailar</string>
+    <string name="Hobbies">Hobbis</string>
+    <string name="Hobbis">Hobbies</string>
+    <string-array name="Ciudades">
+        <item>Medellín</item>
+        <item>Pereira</item>
+        <item>Armenia</item>
+        <item>Manizales</item>
+        <item>Bogota</item>
+
+    </string-array>
+
+</resources>
